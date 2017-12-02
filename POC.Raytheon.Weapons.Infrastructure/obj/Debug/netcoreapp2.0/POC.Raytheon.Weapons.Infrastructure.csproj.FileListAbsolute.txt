@@ -1,0 +1,18 @@
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Infrastructure\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.deps.json
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Infrastructure\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.dll
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Infrastructure\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.pdb
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.AssemblyInfo.cs
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.dll
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.pdb
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Infrastructure\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.deps.json
+C:\Git\CloudNative\POC.Raytheon.Weapons.Infrastructure\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Infrastructure\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.pdb
+C:\Git\CloudNative\POC.Raytheon.Weapons.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.AssemblyInfoInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.AssemblyInfo.cs
+C:\Git\CloudNative\POC.Raytheon.Weapons.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Infrastructure\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Infrastructure.pdb

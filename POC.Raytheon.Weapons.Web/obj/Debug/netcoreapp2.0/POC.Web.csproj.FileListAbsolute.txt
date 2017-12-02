@@ -1,0 +1,11 @@
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\bin\Debug\netcoreapp2.0\POC.Web.deps.json
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\bin\Debug\netcoreapp2.0\POC.Web.runtimeconfig.json
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\bin\Debug\netcoreapp2.0\POC.Web.runtimeconfig.dev.json
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\bin\Debug\netcoreapp2.0\POC.Web.dll
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\bin\Debug\netcoreapp2.0\POC.Web.pdb
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\obj\Debug\netcoreapp2.0\POC.Web.csprojResolveAssemblyReference.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\obj\Debug\netcoreapp2.0\POC.Web.csproj.CoreCompileInputs.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\obj\Debug\netcoreapp2.0\POC.Web.AssemblyInfoInputs.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\obj\Debug\netcoreapp2.0\POC.Web.AssemblyInfo.cs
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\obj\Debug\netcoreapp2.0\POC.Web.dll
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\DeleteMe\obj\Debug\netcoreapp2.0\POC.Web.pdb

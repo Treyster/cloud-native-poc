@@ -1,0 +1,18 @@
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.Integration\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.deps.json
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.Integration\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.dll
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.Integration\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.pdb
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.csprojResolveAssemblyReference.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.csproj.CoreCompileInputs.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.AssemblyInfoInputs.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.AssemblyInfo.cs
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.dll
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.pdb
+C:\Git\CloudNative\POC.Raytheon.Weapons.Integration\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.deps.json
+C:\Git\CloudNative\POC.Raytheon.Weapons.Integration\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Integration\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.pdb
+C:\Git\CloudNative\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.csprojResolveAssemblyReference.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.csproj.CoreCompileInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.AssemblyInfoInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.AssemblyInfo.cs
+C:\Git\CloudNative\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Integration\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Integration.pdb
