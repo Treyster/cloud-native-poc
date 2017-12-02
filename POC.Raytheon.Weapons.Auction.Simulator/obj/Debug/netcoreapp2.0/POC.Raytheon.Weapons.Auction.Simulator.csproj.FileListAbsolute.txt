@@ -1,0 +1,10 @@
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.deps.json
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.runtimeconfig.json
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.runtimeconfig.dev.json
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.pdb
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.csproj.CoreCompileInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.AssemblyInfoInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.AssemblyInfo.cs
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Auction.Simulator\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Auction.Simulator.pdb

@@ -1,0 +1,18 @@
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.DBConnector\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.deps.json
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.DBConnector\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.dll
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.DBConnector\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.pdb
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.csproj.CoreCompileInputs.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.AssemblyInfoInputs.cache
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.AssemblyInfo.cs
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.dll
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.pdb
+C:\Users\treyb\Documents\Visual Studio 2017\Projects\DeleteMe\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.csprojResolveAssemblyReference.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.DBConnector\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.deps.json
+C:\Git\CloudNative\POC.Raytheon.Weapons.DBConnector\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.DBConnector\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.pdb
+C:\Git\CloudNative\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.csprojResolveAssemblyReference.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.csproj.CoreCompileInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.AssemblyInfoInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.AssemblyInfo.cs
+C:\Git\CloudNative\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.DBConnector\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.DBConnector.pdb

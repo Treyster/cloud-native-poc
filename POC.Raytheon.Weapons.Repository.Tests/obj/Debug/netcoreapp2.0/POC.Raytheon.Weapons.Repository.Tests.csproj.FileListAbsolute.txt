@@ -1,0 +1,14 @@
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.deps.json
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.runtimeconfig.json
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.runtimeconfig.dev.json
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\bin\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.pdb
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.csprojResolveAssemblyReference.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.csproj.CoreCompileInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.AssemblyInfoInputs.cache
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.AssemblyInfo.cs
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.dll
+C:\Git\CloudNative\POC.Raytheon.Weapons.Repository.Tests\obj\Debug\netcoreapp2.0\POC.Raytheon.Weapons.Repository.Tests.pdb
